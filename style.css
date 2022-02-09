@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ 
+
+#modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.hidden {
+      display: none;
+  }
+
+
+#rectangle {
+    
+    width: 250px;
+    height: 150px;
+    background: rgb(248, 238, 252);
+    margin-top: 150px;
+    border-style: dotted;
+    border-color: blueviolet;
+  } 
+
+    #text {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(85, 87, 87);
+        font-size: 15px;
+  }
+
+ 
